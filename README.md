@@ -2,7 +2,7 @@
 
 **AI-Powered Threat Detection & Automated Response Platform (SOAR)**
 
-![Dashboard Overview](docs/images/dashboard-main.png)
+![Dashboard Overview](docs/images/Screenshot 2026-08-31 094950.png)
 
 IronDome.ai is a comprehensive, microservices-based **Security Orchestration, Automation, and Response (SOAR)** platform. It provides real-time monitoring, AI-driven threat detection, and automated incident response for critical infrastructures (Healthcare, Agriculture, Urban Systems).
 <img width="935" height="160" alt="image" src="https://github.com/user-attachments/assets/08718730-47f9-4c6d-a306-704600f93560" />
